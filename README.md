@@ -5,7 +5,8 @@ This a Windows text editor that allows the user to
 
 - to type text in standard Greek orthography and convert it to IPA.
 - to type text in Cypriot Greek orthography and convert it to IPA.
-- Create Reverse Lists for dictionaries
+- to create lists of words in reverse order for dictionaries.
+- to analyze text using the implemented regular expressions engine.
 
 ## Download
 [Download Current Windows Version](https://github.com/themistocleous/IPA_Greek/raw/master/IPA4.zip)
